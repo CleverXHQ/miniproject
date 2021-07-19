@@ -71,7 +71,7 @@ If you need VISA CARD image, please refer to this link: https://www.merchantsign
 ![image](https://user-images.githubusercontent.com/5981804/103127047-53de4580-46b6-11eb-87af-ad11bb88268d.png)
 
 
-# You will be judged on:
+# For this POC, you will be judged on:
 * Git skills. (We will go through your commits)
 * Ability to convert the mockup/screenshots to a pixel perfect React code. (CSS skills)
 * Ability to write clean, readable and well structured code. (While structuring your code, think about how you'd structure it in a large React app)
